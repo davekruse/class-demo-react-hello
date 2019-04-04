@@ -1,0 +1,14 @@
+.picture-frame {
+  background-color:#333;
+  padding:6px;
+  margin:1em auto;
+  width:80%;
+  text-align:center;
+  h1, .description {
+    color:white;
+  }
+  img {
+    width:100%;
+    height:auto;
+  }
+}
