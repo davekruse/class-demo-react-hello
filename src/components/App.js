@@ -4,7 +4,8 @@ import Description from './Description';
 import Title from './Title';
 import '../stylesheets/App.css';
 
-const api_key = 'BuoeNuxjaHyk5cAELtedF6e3WVuffEV4PnpKUggZ'
+/* Get an api key from NASA: https://api.nasa.gov/index.html#apply-for-an-api-key */
+const api_key = 'xxx';
 
 class App extends Component {
 
